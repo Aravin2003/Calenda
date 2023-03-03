@@ -1,0 +1,28 @@
+{
+  "name": "newproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.4",
+    "@fullcalendar/daygrid": "^6.1.4",
+    "@fullcalendar/google-calendar": "^6.1.4",
+    "@fullcalendar/list": "^6.1.4",
+    "@fullcalendar/timegrid": "^6.1.4",
+    "@google-cloud/local-auth": "^2.1.0",
+    "body": "^5.1.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "fullcalendar-scheduler": "^6.1.4",
+    "googleapis": "^105.0.0",
+    "mongoose": "^6.9.1",
+    "parser": "^0.1.4",
+    "path": "^0.12.7"
+  }
+}

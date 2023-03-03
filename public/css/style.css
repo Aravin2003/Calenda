@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    background: rgb(244,74,214);
+    background: linear-gradient(0deg, rgba(244,74,214,1) 0%, rgba(253,230,45,1) 100%);   
+}
+#calendar
+{
+    width:85%;
+}
+#container
+{
+    margin-top: 10%;
+    margin-left: 13%;
+}
+.fc-today-button
+{
+ background-color:#700AFF!important;
+ border: 1.5px solid black !important;
+}
+.fc-prev-button
+{
+ background-color:#700AFF !important;
+ border: 1.5px solid black !important;
+}
+.fc-next-button
+{
+ background-color:#700AFF !important;
+ border: 1.5px solid black !important;
+}
+.fc-view
+{
+    border: 2.5px solid black !important;
+    border-radius: 2em !important;
+    box-shadow: 0 0 10px  black;
+    background-color: white;
+}
+.fc-license-message
+{
+    display: none !important;
+}
+
